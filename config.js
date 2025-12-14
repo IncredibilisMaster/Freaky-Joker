@@ -30,10 +30,10 @@ class EnterpriseConfigurationManager {
              * Configure your Lavalink server for audio processing
              */
             lavalink: {
-                name: "Sakura",
-                password: "Rikka",
-                host: "lavalink.aiko-project.xyz",
-                port:  2333,
+                name: "AYANO LAVA",
+                password: "AYANO",
+                host: "194.58.66.44",
+                port:  3660,
                 secure: false
             },
             
@@ -102,6 +102,7 @@ module.exports = primaryApplicationConfiguration;
  * Never share your bot token or database URI publicly!
  * Use environment variables in production!
  */
+
 
 
 
