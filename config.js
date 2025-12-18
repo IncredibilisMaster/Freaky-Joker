@@ -30,10 +30,10 @@ class EnterpriseConfigurationManager {
              * Configure your Lavalink server for audio processing
              */
             lavalink: {
-              identifier: "Public v4",
-              password: "https://dsc.gg/ajidevserver",
-              host: "lava-v4.ajieblogs.eu.org",
-              port: 80,
+              name: "Sakura",
+              password: "Sakura",
+              host: "ca.lavalink.yumistack.net",
+              port:  2333,
               secure: false
             },
             
@@ -102,6 +102,7 @@ module.exports = primaryApplicationConfiguration;
  * Never share your bot token or database URI publicly!
  * Use environment variables in production!
  */
+
 
 
 
